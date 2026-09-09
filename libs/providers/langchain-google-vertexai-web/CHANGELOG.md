@@ -1,5 +1,12 @@
 # @langchain/google-vertexai-web
 
+## 2.3.1-rc.0
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @langchain/google-webauth@2.3.1-rc.0
+
 ## 2.3.0
 
 ### Patch Changes
